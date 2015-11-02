@@ -2,6 +2,7 @@
  * CreditCard Validator
  * @author Fredrick Kofi Tam
  * coms1004
+ * UNI: fkt2105
  * Homework 6
  */
 
@@ -122,7 +123,7 @@ public class CreditCard {
 		
 	}
 	
-	
+	// isValid method that returns a boolean
 	public boolean isValid()
 	{
 		return cardValidity;
@@ -130,7 +131,7 @@ public class CreditCard {
 	
 	}
 	
-	
+	// method that gets errorCode that invalidates card
 	public int getErrorCode( )
 	{
 		return errorCode;
@@ -139,4 +140,3 @@ public class CreditCard {
 	
 	
 	}
-
