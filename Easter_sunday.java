@@ -35,19 +35,5 @@ public class Easter_sunday{
 		
 		// print the month and day of easter Sunday
 		System.out.println("Easter Sunday is on" +" " + month + '/' + day + '/' + year);
-		
-				
-		
-		
-		
-		
-		
-		
-		
 	}
-	
-	
-	
-	
-	
 }
